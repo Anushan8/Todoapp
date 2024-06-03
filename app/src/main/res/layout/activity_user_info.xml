@@ -81,7 +81,7 @@
                 android:layout_width="347dp"
                 android:layout_height="152dp"
                 android:gravity="center"
-                android:orientation="vertical">
+                android:orientation="horizontal">
 
                 <Button
                     android:id="@+id/btnlogOut"
@@ -97,7 +97,7 @@
                     android:id="@+id/btnEdit_info"
                     android:layout_width="126dp"
                     android:layout_height="46dp"
-                    android:layout_marginTop="45dp"
+                    android:layout_marginLeft="70dp"
                     android:backgroundTint="#ffd75e"
                     android:gravity="right"
                     android:text="Edit Info."
